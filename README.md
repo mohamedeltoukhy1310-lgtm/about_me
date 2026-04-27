@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub profile! I'm Mohamed Hesham , a data analyst passionate about making the data more valuable. I enjoy working with python , excel , power pi and SQL Server فo modify and clean the data and discover relationships To get the most benefit from the data.
+Welcome to my GitHub profile! I'm Mohamed Hesham , a data analyst passionate about making the data more valuable. I enjoy working with python , excel , power pi and SQL Server to modify and clean the data and discover relationships To get the most benefit from the data.
 
 ## 🚀 About Me
 🎓 Computer Science Student at Helwan National University (Class of 2027)
